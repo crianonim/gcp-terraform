@@ -1,3 +1,8 @@
+# SA key
+*.json
+
+#lock
+*.lock.hcl
 # Local .terraform directories
 **/.terraform/*
 
